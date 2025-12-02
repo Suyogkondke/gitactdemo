@@ -9,7 +9,7 @@ on :
 
 jobs:
     demo-job:
-        runs-on: ubnutu-latest
+        runs-on: ubuntu-latest
 
         steps:
             - name: checkout code
